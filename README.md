@@ -234,40 +234,6 @@ party-menu-app/
 
 ---
 
-# 🚀 Getting Started
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/your-username/party-menu-application.git
-```
-
-## Navigate to the Project
-
-```bash
-cd party-menu-application
-```
-
-## Install Dependencies
-
-```bash
-npm install
-```
-
-## Start Development Server
-
-```bash
-npm run dev
-```
-
-## Build for Production
-
-```bash
-npm run build
-```
-
----
-
 # 🔑 Test Credentials
 
 Use the following credentials to access the application.
