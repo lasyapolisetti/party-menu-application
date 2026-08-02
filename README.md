@@ -8,7 +8,16 @@ The project demonstrates modern React development practices, including authentic
 
 ## 📸 Preview
 
-> *(Add screenshots or GIFs of the Sign In page, Menu page, Food Detail page, and Saved Recipes page here after deployment.)*
+Login page :
+<img width="1892" height="896" alt="image" src="https://github.com/user-attachments/assets/611b1bbc-5279-42ca-b6e4-4a9b6b847648" />
+
+Menu Page :
+<img width="1895" height="353" alt="image" src="https://github.com/user-attachments/assets/bd24f852-3a41-4b0c-b1da-05dfc3882c42" />
+<img width="1877" height="516" alt="image" src="https://github.com/user-attachments/assets/521f0e58-9df7-46e1-b075-2d5ad8e02c50" />
+
+After Selecting an item :
+<img width="875" height="546" alt="image" src="https://github.com/user-attachments/assets/d4072821-65b1-4988-b35c-098aaf6da183" />
+
 
 ---
 
